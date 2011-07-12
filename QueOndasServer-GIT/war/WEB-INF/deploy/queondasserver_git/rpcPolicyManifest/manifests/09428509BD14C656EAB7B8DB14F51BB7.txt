@@ -1,0 +1,2 @@
+serviceClass: com.dev52.queondas.QueOndasActivity.server.client.GreetingService
+path: CB1B2ADABE96FC4615E05395B7E37935.gwt.rpc
